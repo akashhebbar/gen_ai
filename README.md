@@ -23,7 +23,7 @@ A FastMCP-based employee management system that provides tools for managing empl
 1. Ensure Python is installed on your system
 2. Install the required dependencies:
    ```bash
-   pip install fastmcp
+   pip install mcp
    ```
 3. Configure Cursor editor connection in `~/.cursor/mcp.json`
 4. Run the MCP server:
